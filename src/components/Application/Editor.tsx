@@ -16,7 +16,7 @@ const Editor: React.FC = () => {
     projectInfo: {
       projectName: '',
       projectOwner: '',
-      projectContact: '',
+      projectContact: [],
       projectLandingPage: '',
       projectRepository: '',
       programmingLanguage: [],

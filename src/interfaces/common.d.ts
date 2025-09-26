@@ -20,7 +20,7 @@ export interface IProject {
   projectInfo: {
     projectName: string;
     projectOwner: string;
-    projectContact: string;
+    projectContact: string[];
     projectLandingPage: string;
     projectRepository: string;
     programmingLanguage: Array<string>;

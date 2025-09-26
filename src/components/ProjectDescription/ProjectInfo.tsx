@@ -38,6 +38,7 @@ const ProjectInfo: React.FC<IProjectInfoProps> = ({
       'openSourceLicense',
       'programmingLanguage',
       'cdiscStandards',
+      'projectContact',
     ].includes(id)
   ) {
     type = 'array';

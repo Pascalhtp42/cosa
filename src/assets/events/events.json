@@ -227,5 +227,21 @@
     "logo": "",
     "startDate": "2025-06-24",
     "endDate": "2025-06-24"
+  },
+    {
+    "title": "COSA Spotlight Q3 2025",
+    "description": "2025_Q3_spotlight.md",
+    "type": "webinar",
+    "logo": "",
+    "startDate": "2025-09-23",
+    "endDate": "2025-09-23"
+  },
+    {
+    "title": "COSA Spotlight Q4 2025",
+    "description": "2025_Q4_spotlight.md",
+    "type": "webinar",
+    "logo": "",
+    "startDate": "2025-12-09",
+    "endDate": "2025-12-09"
   }
 ]

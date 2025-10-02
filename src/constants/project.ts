@@ -35,7 +35,7 @@ export const descriptions = {
     projectName: 'Name of the project.',
     projectOwner: 'Name of the project owner.',
     projectContact:
-      'Name and email address of the primary contact for the project.',
+      'Name and email address(es) of the primary contact(s) for the project.',
     projectLandingPage:
       'Provide a link to the primary landing spot for project users.',
     projectRepository:

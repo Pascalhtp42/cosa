@@ -28,7 +28,7 @@ const fields: {
   projectInfo: [
     { id: 'projectName' },
     { id: 'projectOwner' },
-    { id: 'projectContact' },
+    { id: 'projectContact', freeSolo: true, multiple: true, options: [''] },
     { id: 'projectLandingPage' },
     { id: 'projectRepository' },
     {

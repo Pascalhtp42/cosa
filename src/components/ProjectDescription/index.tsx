@@ -52,6 +52,13 @@ const ProjectDescription: React.FC<IProjectDescriptionProps> = ({
     const loadYaml = async () => {
       try {
         const data = await import(`../../assets/projects/${id}/${id}.json`);
+        // If projectContact is a string, convert it to an array
+        if (
+          data.projectInfo.projectContact &&
+          typeof data.projectInfo.projectContact === 'string'
+        ) {
+          data.projectInfo.projectContact = [data.projectInfo.projectContact];
+        }
         setProject(data);
       } catch (e) {
         navigate('/notfound', { replace: true });

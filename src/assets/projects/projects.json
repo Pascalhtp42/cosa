@@ -281,5 +281,30 @@
       "SDTM",
       "USDM"
     ]
+  },
+    {
+    "id": "sas_dataset_json",
+    "name": "sas_dataset_json",
+    "description": "sas_dataset_json is a 100% SAS-based package that enables seamless conversion between SAS datasets and Dataset-JSON files, preserving metadata through SAS extended attributes and eliminating the need for Define.xml.",
+    "categories": [
+      "Dataset-JSON"
+    ]
+  },
+      {
+    "id": "usdm-osb-uploader",
+    "name": "USDM OSB Uploader",
+    "description": "USDM OSB Uploader is a Python-based tool that automates clinical trial setup by seamlessly uploading and managing USDM files in OSB platforms, reducing manual work and errors.",
+    "categories": [
+      "USDM"
+    ]
+  },
+    {
+    "id": "aNCA",
+    "name": "aNCA",
+    "description": "This project automates NCA by generating PP, ADPP, and TLG outputs from user-defined settings—no coding required",
+    "categories": [
+        "ADaM",
+        "SDTM"
+    ]
   }
 ]

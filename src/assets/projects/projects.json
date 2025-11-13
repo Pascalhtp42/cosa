@@ -290,6 +290,14 @@
       "Dataset-JSON"
     ]
   },
+      {
+    "id": "usdm-osb-uploader",
+    "name": "USDM OSB Uploader",
+    "description": "USDM OSB Uploader is a Python-based tool that automates clinical trial setup by seamlessly uploading and managing USDM files in OSB platforms, reducing manual work and errors.",
+    "categories": [
+      "USDM"
+    ]
+  },
     {
     "id": "aNCA",
     "name": "aNCA",

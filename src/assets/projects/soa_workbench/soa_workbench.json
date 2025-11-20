@@ -39,6 +39,6 @@
     "sponsors": "CDISC Data Science",
     "goalsObjectives": "Creation of SoA for study and generation of USDM v4.0 JSON to be used in downstream processes for 360i project.\nRequirements:\n  * UI to design a study with at least the study header info, info for trial design domains, and schedule of activities\n  * Integration with CDISC Library for adding BCs to each activity in the SoA\n  * Generate USDM-JSON 4.0\n  * Amend a protocol and keep versioning \n  * Do an impact analysis (at minimum for this stage, just comparing difference between original protocol and amendment(s))\n  * Simple SoA visualization (or at least csv/xlsx export) to review SoA.\n  * Import existing protocols (can possibly use one of the open-source solutions from the AI Challenge; bonus add, not MVP)",
     "communications": "n/a",
-    "additonalInformation": "https://github.com/pendingintent/soa-workbench"
+    "additionalInformation": "https://github.com/pendingintent/soa-workbench"
   }
 }

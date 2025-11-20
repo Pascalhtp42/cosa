@@ -6,7 +6,7 @@ projectInfo:
   projectContact:
     - dmoreland@cdisc.org
   projectLandingPage: https://github.com/pendingintent/soa-workbench
-  projectRepository: https://github.com/pendingintent/soa-builder
+  projectRepository: https://github.com/pendingintent/soa-workbench
   programmingLanguage: 
     - Python
   openSourceLicense:

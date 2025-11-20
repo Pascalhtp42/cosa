@@ -306,5 +306,13 @@
         "ADaM",
         "SDTM"
     ]
+  },
+    {
+    "id": "soa_workbench",
+    "name": "soa_workbench",
+    "description": "A Python web app for easily creating and versioning USDM-compliant Schedules of Activities with linked CDISC Biomedical Concepts.",
+    "categories": [
+        "USDM"
+    ]
   }
 ]

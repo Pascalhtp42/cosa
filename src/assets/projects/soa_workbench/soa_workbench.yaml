@@ -5,7 +5,7 @@ projectInfo:
   projectOwner: Darren Moreland
   projectContact:
     - dmoreland@cdisc.org
-  projectLandingPage: http://localhost:8000/
+  projectLandingPage: https://github.com/pendingintent/soa-workbench
   projectRepository: https://github.com/pendingintent/soa-builder
   programmingLanguage: 
     - Python

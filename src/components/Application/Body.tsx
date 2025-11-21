@@ -103,7 +103,7 @@ const fields: {
     { id: 'sponsors', multiline: true },
     { id: 'goalsObjectives', multiline: true },
     { id: 'communications', multiline: true },
-    { id: 'additonalInformation', multiline: true },
+    { id: 'additionalInformation', multiline: true },
   ],
 };
 

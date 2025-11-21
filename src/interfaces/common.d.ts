@@ -44,7 +44,7 @@ export interface IProject {
     sponsors: string;
     goalsObjectives: string;
     communications: string;
-    additonalInformation: string;
+    additionalInformation: string;
   };
 }
 

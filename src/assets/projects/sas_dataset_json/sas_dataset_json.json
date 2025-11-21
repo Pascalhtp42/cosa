@@ -35,6 +35,6 @@
     "sponsors": "NA",
     "goalsObjectives": "One of the motivations and goals of this package is to maximize the available options for reading and writing Dataset-JSON. In addition, in the PMDA region, namely Japan, adoption of Dataset-JSON tends to lag behind. Therefore, another important purpose is to encourage greater participation from Japanese users and to promote communication within the community.",
     "communications": "I share release information in the SAS Packages Users & Developers group on LinkedIn, publish it on PharmaForest (https://github.com/PharmaForest), and also present it at SAS-related events in Japan.",
-    "additonalInformation": "I would like to express my gratitude to my organization, EPS Corporation, for their understanding and support. I am also deeply grateful to the members of the Phuse Japan OST Working Group, as their activities served as the inspiration for this project."
+    "additionalInformation": "I would like to express my gratitude to my organization, EPS Corporation, for their understanding and support. I am also deeply grateful to the members of the Phuse Japan OST Working Group, as their activities served as the inspiration for this project."
   }
 }

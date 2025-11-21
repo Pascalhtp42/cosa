@@ -35,6 +35,6 @@
     "sponsors": "Clymb Clinical. It is funded as R&D, to be complementary to TFL Designer.",
     "goalsObjectives": "To create robust software, aligning with CDISC ARS standard, enabling most of the industry to radically automate ARD (and subsequent TFL) generation, using ARS standards. The aim is to have a large enough library of statistical operations, so that it covers most of the operations required in TFLs.",
     "communications": "This project will be presented at PHUSE US 2025, under \"Advancing TFL Automation: R-Based Meta-Programming Powered by ARS\". Additionally, there will be a LinkedIn update / communication to stay in touch with the users. We will continue to publicize and communicate via CDISC Interchanges, PHUSE SDEs, Social Media and Working Groups as far as possible.",
-    "additonalInformation": null
+    "additionalInformation": null
   }
 }

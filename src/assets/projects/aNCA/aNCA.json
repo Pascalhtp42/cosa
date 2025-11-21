@@ -38,6 +38,6 @@
     "sponsors": "F. Hoffmann-La Roche AG, Pharmaverse, Appsilon",
     "goalsObjectives": "Automate as much as possible NCA using CDISC standard assumptions",
     "communications": "After the publication of a stable version in CRAN, a NEWS.md document linked to our website will be continually updated: https://github.com/pharmaverse/aNCA/blob/main/NEWS.md",
-    "additonalInformation": ""
+    "additionalInformation": ""
   }
 }

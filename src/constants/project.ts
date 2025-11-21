@@ -26,7 +26,7 @@ export const labels = {
     sponsors: 'Sponsors',
     goalsObjectives: 'Goals Objectives',
     communications: 'Communications',
-    additonalInformation: 'Additonal Information',
+    additionalInformation: 'Additonal Information',
   },
 };
 
@@ -73,7 +73,7 @@ export const descriptions = {
     sponsors: 'Is the project sponsored and, if so, by whom? ',
     goalsObjectives: 'What are the goals, objectives, roadmap of this project?',
     communications: 'How will this project keep its community informed? ',
-    additonalInformation:
+    additionalInformation:
       'This is to collect any additional information you may wish to provide.',
   },
 };

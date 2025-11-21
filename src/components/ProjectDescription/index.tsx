@@ -172,7 +172,7 @@ const ProjectDescription: React.FC<IProjectDescriptionProps> = ({
           />
           <ProjectAbout
             description={detailedDescription}
-            id='additonalInformation'
+            id='additionalInformation'
           />
         </Stack>
       </Stack>

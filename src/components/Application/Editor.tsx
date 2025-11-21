@@ -40,7 +40,7 @@ const Editor: React.FC = () => {
       sponsors: '',
       goalsObjectives: '',
       communications: '',
-      additonalInformation: '',
+      additionalInformation: '',
     },
   });
 

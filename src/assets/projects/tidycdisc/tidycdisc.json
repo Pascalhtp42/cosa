@@ -36,6 +36,6 @@
     "sponsors": "It was initially developed at Biogen, Inc., but there are now no other sources of funding",
     "goalsObjectives": "The goal is to have {tidyCDISC} used in clinical trial environments and collect feedback as to what is effective and what can be done to enhance operating efficiency & app function.",
     "communications": "As of now communications can be seen in GitHub issues, PRs, and changelog releases. We also have a blog (https://biogen-inc.github.io/tidyCDISC/articles/Blog.html) to publish updates on our documentation site. Thinking long term, we may transition to a pharmaverse slack group (stay tuned).",
-    "additonalInformation": "{tidyCDISC} developers are currently working towards a CRAN release and many other useful features detailed in our GitHub issues. Stay tuned!"
+    "additionalInformation": "{tidyCDISC} developers are currently working towards a CRAN release and many other useful features detailed in our GitHub issues. Stay tuned!"
   }
 }

@@ -27,5 +27,5 @@ detailedDescription:
   sponsors:
   goalsObjectives: 
   communications: 
-  additonalInformation:
+  additionalInformation:
 ```

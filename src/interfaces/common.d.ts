@@ -1,5 +1,5 @@
 // Declaring module for markdown files
-declare module '*.md' {
+declare module "*.md" {
   const value: string;
   export default value;
 }
@@ -44,7 +44,7 @@ export interface IProject {
     sponsors: string;
     goalsObjectives: string;
     communications: string;
-    additonalInformation: string;
+    additionalInformation: string;
   };
 }
 
@@ -78,5 +78,5 @@ export interface IDirectoryItem {
   name: string;
   description: string;
   categories: string[];
-  type?: 'hackathon';
+  type?: "hackathon";
 }

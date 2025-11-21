@@ -37,6 +37,6 @@
     "sponsors": "N.A.",
     "goalsObjectives": "The odmlib Python library will be the only general purpose Python package that I'm aware of for creating ODM tools.\nIt will work with ODM, its extensions, as well as allow developers to create software tools that support their own extensions.\nIt also makes it much simpler to produce or process ODM documents.\nPublished under the MIT license, I hope others that find it useful will contribute to it.",
     "communications": "* [Github](https://github.com/swhume/odmlib)",
-    "additonalInformation": ""
+    "additionalInformation": ""
   }
 }
